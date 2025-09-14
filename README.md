@@ -45,10 +45,7 @@
 ### Commit States
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iceforYuri&rank_icon=github" width="60%"/>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceforYuri&layout=donut-vertical" width="30%"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=iceforYuri&rank_icon=github" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceforYuri&layout=donut-vertical" width="25%"/>
+
 </p>
