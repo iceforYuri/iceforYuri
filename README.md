@@ -21,6 +21,8 @@
 <p align="center">
   <img src="./src/gif/jinyuan.gif" width="180" />
   <img src="./src/gif/yanqin.gif" width="180" />
+  <br>
+  <img src="./src/image/phainon.jpg" width="180"/>
 </p>
 
 ---
