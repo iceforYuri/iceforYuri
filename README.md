@@ -9,9 +9,9 @@
 
 ---
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iceforYuri/iceforYuri/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAADC5AQDNRF7AFWHG7JOJ4RAI2GHR42A">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iceforYuri/iceforYuri/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAADC5AQDMTGQ3TMMQUEVOMKOU2GHR37Q">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iceforYuri/iceforYuri/refs/heads/output/github-contribution-grid-snake.svg?token=GHSAT0AAAAAADC5AQDMTGQ3TMMQUEVOMKOU2GHR37Q">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iceforYuri/iceforYuri/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iceforYuri/iceforYuri/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iceforYuri/iceforYuri/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### My Vibe Zone
