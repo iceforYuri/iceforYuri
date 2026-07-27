@@ -16,7 +16,7 @@
 
 ### My Vibe Zone
 
-> *May this Journey culminate in the stars*
+> *May this Journey Lead Us Starward*
 
 <p align="center">
   <img src="./src/gif/jinyuan.gif" width="180" />
