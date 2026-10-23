@@ -16,7 +16,7 @@
 
 ### My Vibe Zone
 
-> *May this Journey Lead Us Starward*
+> *[May this Journey Lead Us Starward](https://towardslightcontent.vercel.app/)*
 
 <p align="center">
   <img src="./src/gif/jinyuan.gif" width="180" />
