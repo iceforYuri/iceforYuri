@@ -34,4 +34,4 @@
 * Currently studying computer systems and Web development
 * Exploring machine learning, deep learning, and artificial intelligence aids
 * Also try some front-end work optimization
-* Website: [iceforYuri - Find yourself](https://resume.memorris.dpdns.org/)
+* Website: [iceforYuri - Find yourself](https://welcome.memorris.dpdns.org/)
